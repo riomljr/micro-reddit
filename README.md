@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Creating User, Post and comment models and associating them. Bulding a micro-reddit where the User can post and make comments on different posts.
 
 Things you may want to cover:
 
